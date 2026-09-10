@@ -33,6 +33,8 @@
 - 서울과학기술대학교 정보통신미디어공학 박사
 - 연구 분야: SNN 기반 저전력 AI 알고리즘 설계, CNN-SNN 교차검증
 
-## 연락처
+## 링크
 
+- Notion 포트폴리오: https://app.notion.com/p/2c2f6964be6180ca96f8fcaabe7b00e7
+- Notion 이력서: https://app.notion.com/p/2c5f6964be6180e5a021da1fcaf8718c
 - GitHub: [@AIN108](https://github.com/AIN108)
